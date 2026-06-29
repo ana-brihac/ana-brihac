@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there
 
-<!--
-**ana-brihac/ana-brihac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ana-Cristina Brihac, a Computer Science student at UPB (Automatic Control and Computer Science). I am a hardworking and curious learner, currently exploring Operating Systems and Algorithms. I always enjoy stepping out of my comfort zone and diving into new tech domains!
 
-Here are some ideas to get you started:
+**Tech Stack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** C, C++, Java
+* **Concepts:** Algorithms & Data Structures, Operating Systems, Functional Programming
+* **Technologies & Tools:** Git, Linux, Gemini API
+
+**Soft Skills**
+
+* Teamwork
+* Motivated
+* Adaptability & Problem Solving
+
+**Get in touch**
+
+* Email: anabrihacc@gmail.com
+* LinkedIn: [ana-cristina-brohac](www.linkedin.com/in/ana-cristina-brihac-b81ba5329)
