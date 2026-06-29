@@ -2,7 +2,7 @@
 
 I'm Ana-Cristina Brihac, a Computer Science student at UPB (Automatic Control and Computer Science). I am a hardworking and curious learner, currently exploring Operating Systems and Algorithms. I always enjoy stepping out of my comfort zone and diving into new tech domains!
 
---
+---
 
 **Tech Stack**
 
@@ -10,7 +10,7 @@ I'm Ana-Cristina Brihac, a Computer Science student at UPB (Automatic Control an
 * **Concepts:** Algorithms & Data Structures, Operating Systems, Functional Programming
 * **Technologies & Tools:** Git, Linux, Gemini API
 
---
+---
 
 **Soft Skills**
 
@@ -18,7 +18,7 @@ I'm Ana-Cristina Brihac, a Computer Science student at UPB (Automatic Control an
 * Motivated
 * Adaptability & Problem Solving
 
---
+---
 
 **Get in touch**
 
