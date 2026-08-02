@@ -6,9 +6,9 @@ I'm Ana-Cristina Brihac, a Computer Science student at UPB (Automatic Control an
 
 **Tech Stack**
 
-* **Languages:** C, C++, Java
-* **Concepts:** Algorithms & Data Structures, Operating Systems, Functional Programming
-* **Technologies & Tools:** Git, Linux, Gemini API
+* **Languages:** C, C++, Java, Python, HTML/CSS
+* **Concepts:** Data Structures , Operating Systems, Computer Networks (TCP/UDP), API Integration
+* **Technologies & Tools:** Git/GitHub, Linux, Gemini API, SQL
 
 ---
 
