@@ -20,6 +20,13 @@ I'm Ana-Cristina Brihac, a Computer Science student at UPB (Automatic Control an
 
 ---
 
+**Featured Projects**
+
+[Persistent Key-Value Store](https://github.com/ana-brihac/bplustree-kv-store) - Persistent B+Tree key-value store in C with O(log n) operations.
+[MiniShell](https://github.com/ana-brihac/minishell) - Custom C Linux shell with multi-level pipelines and I/O redirection.
+
+---
+
 **Get in touch**
 
 * Email: anabrihacc@gmail.com
