@@ -14,9 +14,10 @@ I'm a Computer Science student at **UPB (Automatic Control and Computer Science)
 
 ### 🚀 Featured Projects
 
-*   **[Persistent Key-Value Store](https://github.com/ana-brihac/bplustree-kv-store)** - Persistent B+Tree key-value store in C with O(log n) operations.
-*   **[Mini-Shell](https://github.com/ana-brihac/Mini-Shell)** - Custom C Linux shell with multi-level pipelines and I/O redirection.
+*   **[B+Tree Storage Engine](https://github.com/ana-brihac/bplustree-kv-store)** - B+Tree Storage Engine in C with O(log n) operations.
 *   **[Feedback Text Categorizer](https://github.com/ana-brihac/feedback)** - Hybrid Python feedback categorizer using local keywords and Gemini API.
+*   **[Crop-type-classification](https://github.com/mateidimitribrestoiu/rospin-project-13/tree/ana-brihac/deep-learning-model)** - Developed a PyTorch-based encoder-only Transformer for satellite time-series crop classification.
+*   **[Mini-Shell](https://github.com/ana-brihac/Mini-Shell)** - Custom C Linux shell with multi-level pipelines and I/O redirection.
 
 ---
 
