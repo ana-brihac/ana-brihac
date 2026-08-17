@@ -6,9 +6,9 @@ I'm a Computer Science student at **UPB (Automatic Control and Computer Science)
 
 ### 🛠️ Tech Stack & Skills
 
-*   **Languages:** C, C++, Java, Python, HTML/CSS
-*   **Concepts:** Data Structures, Operating Systems, Computer Networks (TCP/UDP), API Integration
-*   **Technologies & Tools:** Git/GitHub, Linux, SQL, Gemini API
+*   **Languages:** C, C++, Java, JavaScript, Python, HTML/CSS
+*   **Concepts:** Data Structures, Operating Systems, Machine Learning, Computer Networks (TCP/UDP), API Integration
+*   **Technologies & Tools:** Git/GitHub, Linux, Databases, Gemini API
 
 ---
 
